@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/static/css/main.883009d3.css",
+    "main.js": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/static/js/main.27c966e6.js",
+    "static/js/453.d2adcf00.chunk.js": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/static/js/453.d2adcf00.chunk.js",
+    "static/media/hair.jpg": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/static/media/hair.6ff2bda33054530e4616.jpg",
+    "static/media/air.jpg": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/static/media/air.10f1a600aca3c9e91a7c.jpg",
+    "static/media/index.cjs": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/static/media/index.1282334337c6cac7deca.cjs",
+    "static/media/blackwater.avif": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/static/media/blackwater.9884a405b5e7207c7d3b.avif",
+    "static/media/logo.svg": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/index.html",
+    "main.883009d3.css.map": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/static/css/main.883009d3.css.map",
+    "main.27c966e6.js.map": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/static/js/main.27c966e6.js.map",
+    "453.d2adcf00.chunk.js.map": "/Divithkumar3/Shopping-cart-using-reactjs-and-useReducer-Hooks-/static/js/453.d2adcf00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.883009d3.css",
+    "static/js/main.27c966e6.js"
+  ]
+}
