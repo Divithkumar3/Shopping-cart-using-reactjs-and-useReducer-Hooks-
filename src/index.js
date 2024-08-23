@@ -42,6 +42,7 @@ function Calculation() {
   let [state, dispatch] = useReducer(shopping, initialState);
   return (
     <div className='product'>
+    <h1>Shopping Cart</h1>
       {state.products.map((product) => (
         <div key={product.id} className='product1'>
             <img src={require('./'+product.image)}></img>
